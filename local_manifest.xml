@@ -5,7 +5,7 @@
         <remote name="MeAbidin" fetch="https://github.com/MeAbidin" />
 
         <!-- Device Trees -->
-        <project path="device/realme/RMX2020" name="device_realme_RMX2020" remote="MeAbidin" revision="Qassa-1" />
+        <project path="device/realme/RMX2020" name="device_realme_RMX2020" remote="MeAbidin" revision="Nusantara" />
 
 	<!-- Vendor Trees -->
         <project path="vendor/realme/RMX2020" name="vendor_realme_RMX2020" remote="MeAbidin" revision="Qassa" />
